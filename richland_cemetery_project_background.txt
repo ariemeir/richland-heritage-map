@@ -1,0 +1,171 @@
+RICHLAND CEMETERY PROJECT — "HOW WE MAKE THE SAUSAGE"
+Cleaned transcript (fillers and stutters removed, paragraphing added; wording otherwise as spoken)
+
+I'd like to take a little bit of time to share with you some information about the Richland Cemetery
+project, where we're bringing together people, resources, expertise, and partnerships. These
+following slides are going to show how the pieces fit together. It's basically a look behind the
+scenes, and I'd like to share some information about how we're going to make this sausage.
+
+Basically, people are going to be able to come to the cemetery and search categories. A map is going
+to pop up, and they're going to be able to walk on that tour. Once they get to these different
+locations, they would scan a QR code or NFC — something where they can scan a chip — and that chip
+then delivers to them the data, so they discover the lives of the families and the folks of the
+history living there. We want to go from this vision to that reality, and this is going to speak
+about how we plan to get there.
+
+WHY RICHLAND MATTERS
+
+Richland Cemetery is important, so why are we doing this? The records, of course, were lost to fire.
+A lot of things have been lost in time. Some things have just been uncovered — some were never known
+in the past anyway. We want to bring all that up by using research tools, because every burial
+represents a life and a story: some known, some forgotten, and some still waiting to be discovered.
+And we want to share this with everyone.
+
+THE TWO VISTAS
+
+We have two different types of VISTAs that are going to help us do this. One is the data systems and
+research VISTA, who builds data and research systems using a lot of different tools: drones, GPS,
+digital cameras, smartphones, tablets, and computers. The other VISTA is concerned with partnerships
+and volunteer systems. This person is building partnerships with the community and building a very
+strong volunteer core that will enable this project to move forward. That volunteer core would be
+the ongoing daily stewards of this project when the VISTAs leave.
+
+BUILDING ON THE CITY'S GIS
+
+The city of Greenville has an amazing GIS database currently. This is a map of Richland Cemetery —
+the city's map — and it has a very good aerial overview where all the sections, blocks, and parcels
+are clearly delineated. The city already knows where thousands of burials are located. What we
+intend to do, to build upon that, is to dig into those little bitty squares and find out who these
+folks are: to have a relational historical database where we reconstruct the lives of the folks that
+are there.
+
+In this case, for instance, Private John Williams — we'll look into his family. Who were his
+parents, his siblings, his spouse, his children? Where did he live? What was his occupation? What
+about his whole life story? There are historical records we can pull up and share: maybe birth
+certificates, death certificates, marriage certificates, his call to service, and his registration
+cards. It's really interesting, the type of data you can pull up.
+
+One small veteran story we can pull up is right here. This is Sunflower Street, and this is Magnolia
+Drive. Right here at Richland Terrace is a slew of veteran headstones. We had our group out to the
+cemetery, and we were wondering: what's the story behind all these veterans buried there? Come to
+find out, all of these guys served at Camp Sevier — which was over near this area, on Paris Mountain
+— and all of them died of pneumonia at about the same time. So it's just an amazing amount of
+stories that can be uncovered.
+
+THE THREE TYPES OF CONSULTANTS
+
+Initially, we think we're going to need consultant expertise from about three different types of
+consultants.
+
+One is a group that's really experienced with making databases. We want to build the database with
+the end in mind, so we want to do an extreme amount of planning with this relational database up
+front. We've already contacted a group called Taproot for database expertise. We've put in for a
+60-minute consultation, and we want that consultation to lead to a scoping. Once we scope the
+project, we want to bring in a team of volunteers that can help us think through all the key parts
+of building this relational database — so by the time the VISTAs get on board, they'll have a
+roadmap of what it is they're building and why these pieces fit together.
+
+The second group of consultants we think will be really handy are GIS and data integration
+consultants. The GIS is what the city already has, and the data integration is the stuff that we're
+bringing. We need to integrate these two parts: all the information the city has with the stuff that
+we're building.
+
+The third type of consultants we think we need initially are drones. The city has, as we've seen,
+this excellent 30,000-foot overview. If we're going to enable folks to walk to these locations, we
+need very good high-resolution drone footage that will help visitors find individual graves —
+high-resolution ground mapping so that, on the far right here, they'll know when they have arrived.
+
+THE DATA BRIDGE
+
+Again, this is a data bridge we're talking about. We're connecting the "where" that the city already
+has — they have about 50 different items in this existing GIS data, and it's an extremely good
+geographic foundation. We're building the "who": who these folks are, their lives, their families,
+their stories.
+
+This bridge is what we're really going to be concerned with connecting properly. The city has a lot
+of unique identifiers, and we're going to have unique identifiers or codes or numbering systems, and
+we need these numbers to match up. When we talk about John Williams, there might be several John
+Williamses — John Williams the first, the second, the third; his family is buried at Richland. We
+want to make sure we're matching the right John Williams up with the John Williams the city has at
+that headstone. Obviously, some of the other work in this bridge is making sure the data is
+integrated properly and that it's going to be one connected system.
+
+ON-DEMAND TOURS
+
+What's going to make this possible, again, is that anybody can come to the cemetery, do a search,
+find what they're looking for, have a tour populated, go and scan those grave sites, and get to
+discover the lives and history of the families buried there.
+
+What we're really talking about are on-demand tours, where the same database we're building will use
+the city's GIS data and produce many different thematic tours the community can experience — whether
+it's the Veterans of Richland, or Families of Richland, or the Camp Sevier military veterans of
+Richland, or Women of Richland, or Teachers of Richland. Whatever somebody wants to discover,
+they're only going to be limited by their imagination with regard to the tour they can create on
+demand.
+
+THE LONG-TERM ECOSYSTEM
+
+This will entail us building a very long-term ecosystem. The partnership VISTA — this is going to be
+their main duty in year one — is to build this capacity to preserve and share Richland's history.
+We're going to be connecting with city and community stewardship groups like the City of Greenville,
+the Greenville GIS/IT Department, the Friends of Richland, and history, cemetery, and genealogy
+groups; education and research groups; community, faith, and oral history groups; youth storytelling
+groups; business, tourism, and community support groups; and media and design groups.
+
+In year one, this is what the VISTAs are going to be building out. In year two, we will be
+populating the entire database from our side — the "who," telling the story of the people buried at
+Richland — and also getting the pilot tours on board and doing some experiences and programming at
+Richland. And then in year three, refining it all. So we have one cemetery, one community, and
+hundreds of stories that are going to unfold.
+
+THE PHASED PATH
+
+This is a phased planning path, from planning and design through building, connecting, and sharing.
+We're going to scope out everything in step two, design it in step three, build it, then in step
+four connect it, and in step five share it. And into posterity, the Friends of Richland — this rich
+volunteer core that we're going to help develop — will be the ongoing stewards of this project.
+
+The vision is one cemetery, one connected system, with hundreds of stories. It's going to build
+something that will last and have a community impact.
+
+RESOURCES
+
+We also have some resources. There's a technical brief — if you click this link, it'll take you to
+the technical brief, which talks about some of the challenges and opportunities we're dealing with,
+and also what already exists.
+
+The other resource is a technical planning guide. The technical planning guide is basically all of
+these 14 slides that we've gone over. For instance, for the slide on why Richland matters, the key
+project information we were thinking about was the historical information of the folks buried at
+Richland and how we want to make this history more accessible. And some of the questions and
+expertise we were thinking we'd need: how this historical information should be organized and
+preserved so that it remains accessible, credible, and sustainable. The technical planning guide
+goes through all 14 slides, so you can see the thought process behind each one.
+
+CLOSING
+
+And with that, this is where we are. We're really trying to build something that is one connected
+system. We're building it in phases, from scoping it out all the way to the point of getting it
+shared. The ecosystem we're building is going to be powerful — it's going to help us preserve and
+share Richland's history. All of this is going to enable anyone to go to the cemetery and do
+on-demand tours: whatever they want to discover, they should be able to discover it.
+
+This is going to be done by simply having a relational database that lets someone search, make their
+tour, get to the grave, scan the device, and discover the lives that are there. We're going to need
+to connect the city's database, which has all the geographical information, with the stuff on the
+right side — the "who," who these folks are and what their life was all about. It's obviously going
+to help if we can have very high-resolution imagery and mapping so people know when they've arrived
+at each point on their tour. Integrating all of that is going to be key, and planning this database
+in advance will help us get to where we want to be sooner.
+
+We couldn't be more excited about being able to digitize this information and have it shared with
+the public and with the City of Greenville — to complement what the city has already done with this
+amazing GIS database system — with the VISTAs we'll bring on board, who will build community
+partnerships and build this volunteer core, the stewards that will carry this project forward, and
+with a VISTA concentrated on building the data and research systems as well. This is going to really
+help us uncover, with our research, information that can be shared with anyone with basically a
+smartphone.
+
+And this is how we intend to make the sausage — to bring this from vision to reality. We hope this
+was helpful. We really appreciate everyone's support thus far, and we're looking forward to
+continuing this project. Thank you.
