@@ -22,8 +22,9 @@ real map, tap one, and read that person's story.
   <img src="docs/images/02-record-panel-illustrative-badge.jpg" width="820"
        alt="The same map with a record panel open on the right showing Ernest McBee, 1897 to 1952, under a red badge reading ILLUSTRATIVE, NOT VERIFIED HISTORY.">
   <br>
-  <em>The record panel. Grave location, name, dates and veteran status are real City
-  records; every invented field sits under the red badge and says so.</em>
+  <em>The record panel. The grave location, name, dates and veteran status come
+  from real City records. Every field written for this prototype sits under the
+  red badge and is labelled as such.</em>
 </p>
 
 <p align="center">
@@ -92,14 +93,14 @@ Two data sources, joined in the browser by a stable `INTERMENT_ID`:
   occupation, community, themes. Sourced from a published Google Sheet when
   configured, falling back to a bundled CSV otherwise, so the app always runs.
 
-Stack: Vite + React, Leaflet for mapping, Papa Parse for CSV, deployed to Cloudflare
-Pages with two edge Functions (an access gate and the GIS proxy).
+Stack: Vite and React, Leaflet for the map, Papa Parse for CSV, deployed to
+Cloudflare Pages with one edge Function that proxies the GIS service.
 
 ## Try it
 
-The live prototype is deployed and access-gated with a shared code — reach out to the
-project team for access. It's intentionally casual protection for a pitch demo, not a
-hardened system.
+The live demo is open: **https://richland-connected-history.pages.dev**
+
+An earlier version was behind a shared access code. That gate has been removed.
 
 ## Running it yourself
 
@@ -111,18 +112,18 @@ cd richland-cemetery-prototype
 npm install
 ```
 
-**Local dev** — runs the React app only; `/api/interments` needs a Cloudflare Pages
-Function to answer it, which plain `vite dev` doesn't provide:
+**Local development.** `vite dev` alone is not enough, because `/api/interments`
+is answered by a Cloudflare Pages Function. Build first, then serve with
+wrangler:
 
 ```zsh
 npm run build
 npx wrangler pages dev dist
 ```
 
-This serves the built app plus both Pages Functions (`functions/_middleware.js`,
-`functions/api/interments.js`) together on `http://localhost:8788`, so the access
-gate and the live GIS proxy both work exactly as in production. Log in with the
-access code hardcoded in `functions/_middleware.js` (`ACCESS_CODE`).
+This serves the built app together with the Pages Function
+(`functions/api/interments.js`) on `http://localhost:8788`, so the live GIS proxy
+works the same way it does in production.
 
 **Deploy to your own Cloudflare account:**
 
@@ -153,5 +154,5 @@ app.
 
 ## Status
 
-v1 prototype, built and deployed. See `brief.md` for the full build spec this was
-built from, and `handoff.md` for build notes, known issues, and next steps.
+v1 prototype, built and deployed. See `brief.md` for the full build spec it was
+built from.
