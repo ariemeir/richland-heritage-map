@@ -6,15 +6,16 @@ real map, tap one, and read that person's story.
 
 **→ [Open the live demo](https://richland-connected-history.pages.dev)**
 
-> Pro bono / non-profit consulting project. The grave data is live and real; the
-> biographical narrative is clearly marked illustrative and is not verified history.
+> Pro bono consulting project for a non-profit. The grave data is real and live.
+> The biographies are written for this prototype, are clearly marked as such, and
+> are not verified history.
 
 <p align="center">
   <img src="docs/images/01-map-836-interments.jpg" width="820"
        alt="Aerial map of Richland Cemetery with several hundred grave markers plotted across the site, and a theme filter bar reading Veterans, Families, Teachers, Women, Camp Sevier.">
   <br>
-  <em>836 real interments, pulled live from the City of Greenville GIS at page load.
-  82 of them are flagged as veterans.</em>
+  <em>836 burial records, loaded from the City of Greenville GIS when the page
+  opens. 82 of them are marked as veterans.</em>
 </p>
 
 <p align="center">
@@ -29,7 +30,7 @@ real map, tap one, and read that person's story.
   <img src="docs/images/03-search-by-name.jpg" width="820"
        alt="The search box showing live matches for the query sullivan, listing six people with their birth and death dates.">
   <br>
-  <em>Search resolves against the live GIS name fields, not a local index.</em>
+  <em>Search runs against the name fields in the live GIS data, not a local copy.</em>
 </p>
 
 ## Why this exists
