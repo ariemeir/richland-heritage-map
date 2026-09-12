@@ -4,6 +4,34 @@ A v1 prototype that fuses the City of Greenville's public cemetery GIS data with
 lightweight narrative layer, so a visitor can search a topic, see real graves on a
 real map, tap one, and read that person's story.
 
+**→ [Open the live demo](https://richland-connected-history.pages.dev)**
+
+> Pro bono / non-profit consulting project. The grave data is live and real; the
+> biographical narrative is clearly marked illustrative and is not verified history.
+
+<p align="center">
+  <img src="docs/images/01-map-836-interments.jpg" width="820"
+       alt="Aerial map of Richland Cemetery with several hundred grave markers plotted across the site, and a theme filter bar reading Veterans, Families, Teachers, Women, Camp Sevier.">
+  <br>
+  <em>836 real interments, pulled live from the City of Greenville GIS at page load.
+  82 of them are flagged as veterans.</em>
+</p>
+
+<p align="center">
+  <img src="docs/images/02-record-panel-illustrative-badge.jpg" width="820"
+       alt="The same map with a record panel open on the right showing Ernest McBee, 1897 to 1952, under a red badge reading ILLUSTRATIVE, NOT VERIFIED HISTORY.">
+  <br>
+  <em>The record panel. Grave location, name, dates and veteran status are real City
+  records; every invented field sits under the red badge and says so.</em>
+</p>
+
+<p align="center">
+  <img src="docs/images/03-search-by-name.jpg" width="820"
+       alt="The search box showing live matches for the query sullivan, listing six people with their birth and death dates.">
+  <br>
+  <em>Search resolves against the live GIS name fields, not a local index.</em>
+</p>
+
 ## Why this exists
 
 Richland Cemetery, in Greenville, South Carolina, is a historically significant

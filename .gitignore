@@ -5,3 +5,6 @@ dist
 .DS_Store
 .env
 .env.*
+
+# Working notes, not documentation.
+handoff.md
